@@ -1,0 +1,48 @@
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Dependency directories
+/.pnp
+.pnp.js
+
+# Optional npm cache directory
+.npm
+
+# Optional eslint cache
+.eslintcache
+
+# Build output
+/dist
+/out
+
+# Next.js build output
+/.next/
+
+# Nuxt.js build output
+/.nuxt/
+
+# Vuepress build output
+/.vuepress/dist/
+
+# Serverless build output
+/.serverless/
+
+# Storybook build output
+/storybook-static/
+
+# Typescript build output
+/.tscache/
+
+# Yarn Integrity file
+.yarn-integrity
+
+# IDE files
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Mac files
+.DS_Store
